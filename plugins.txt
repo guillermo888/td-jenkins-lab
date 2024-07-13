@@ -115,3 +115,6 @@ google-oauth-plugin:latest
 google-container-registry-auth:latest
 docker-build-publish:latest
 versionnumber:latest
+
+
+#hasta aqui los plugins a instalar
