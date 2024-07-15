@@ -119,3 +119,4 @@ versionnumber:latest
 
 #hasta aqui los plugins a instalar
 #otr prueba
+#edicion desde el github web
